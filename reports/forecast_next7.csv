@@ -1,0 +1,15 @@
+date,item,predicted_units,milk_ml
+2025-08-23,Cafe com leite,85.0,6800.0
+2025-08-24,Cafe com leite,0.0,0.0
+2025-08-25,Cafe com leite,60.0,4800.0
+2025-08-26,Cafe com leite,59.0,4720.0
+2025-08-27,Cafe com leite,54.0,4320.0
+2025-08-28,Cafe com leite,69.0,5520.0
+2025-08-29,Cafe com leite,74.0,5920.0
+2025-08-23,Cappuccino,56.0,10080.0
+2025-08-24,Cappuccino,0.0,0.0
+2025-08-25,Cappuccino,27.0,4860.0
+2025-08-26,Cappuccino,31.0,5580.0
+2025-08-27,Cappuccino,34.0,6120.0
+2025-08-28,Cappuccino,32.0,5760.0
+2025-08-29,Cappuccino,52.0,9360.0

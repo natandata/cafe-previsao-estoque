@@ -1,0 +1,9 @@
+{
+  "checks": [
+    "initial load",
+    "language EN",
+    "simulate 50 paths lead5 shelf3",
+    "different forecast reruns scenario"
+  ],
+  "passed": true
+}

@@ -1,0 +1,43 @@
+test_01_generator_seed (test_pipeline.ForecastTests) ... ok
+test_02_daily_complete (test_pipeline.ForecastTests) ... ok
+test_03_missing_is_not_zero (test_pipeline.ForecastTests) ... ok
+test_04_duplicate_rejected (test_pipeline.ForecastTests) ... ok
+test_05_unobserved_rejected (test_pipeline.ForecastTests) ... ok
+test_06_negative_rejected (test_pipeline.ForecastTests) ... ok
+test_07_fraction_rejected (test_pipeline.ForecastTests) ... ok
+test_08_closed_zero (test_pipeline.ForecastTests) ... ok
+test_09_closed_conflict (test_pipeline.ForecastTests) ... ok
+test_10_unknown_recipe (test_pipeline.ForecastTests) ... ok
+test_11_seasonal_exact (test_pipeline.ForecastTests) ... ok
+test_12_moving_exact (test_pipeline.ForecastTests) ... ok
+test_13_ses_constant (test_pipeline.ForecastTests) ... ok
+test_14_short_history (test_pipeline.ForecastTests) ... ok
+test_15_bad_method (test_pipeline.ForecastTests) ... ok
+test_16_future_invariance (test_pipeline.ForecastTests) ... ok
+test_17_origin_before_target (test_pipeline.ForecastTests) ... ok
+test_18_partial_horizon (test_pipeline.ForecastTests) ... ok
+test_19_no_cross_boundary (test_pipeline.ForecastTests) ... ok
+test_20_invalid_window (test_pipeline.ForecastTests) ... ok
+test_21_hand_calculated_levels (test_pipeline.InventoryTests) ... ok
+test_22_service_raises_safety (test_pipeline.InventoryTests) ... ok
+test_23_longer_lead_raises_rop (test_pipeline.InventoryTests) ... ok
+test_24_invalid_policy (test_pipeline.InventoryTests) ... ok
+test_25_zero_demand (test_pipeline.InventoryTests) ... ok
+test_26_no_negative_inventory (test_pipeline.InventoryTests) ... ok
+test_27_mass_balance (test_pipeline.InventoryTests) ... ok
+test_28_lost_sales_not_backlog (test_pipeline.InventoryTests) ... ok
+test_29_no_instant_delivery (test_pipeline.InventoryTests) ... ok
+test_30_expiry_convention (test_pipeline.InventoryTests) ... ok
+test_31_demands_conserved (test_pipeline.InventoryTests) ... ok
+test_32_seed_path_is_repeatable (test_pipeline.InventoryTests) ... ok
+test_33_invalid_ml (test_pipeline.InventoryTests) ... ok
+test_34_fefo_expires_old_lots (test_pipeline.InventoryTests) ... ok
+test_35_empty_path (test_pipeline.InventoryTests) ... ok
+test_36_baseline_same_demand (test_pipeline.InventoryTests) ... ok
+test_37_in_transit_not_double_ordered (test_pipeline.InventoryTests) ... ok
+test_38_purchase_cost_tracks_ml (test_pipeline.InventoryTests) ... ok
+
+----------------------------------------------------------------------
+Ran 38 tests in 0.029s
+
+OK

@@ -1,0 +1,7 @@
+test_load_language_and_scenario (test_app.AppTests.test_load_language_and_scenario) ... 2026-11-11 11:45:19.860 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.414s
+
+OK

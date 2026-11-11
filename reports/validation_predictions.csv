@@ -1,0 +1,505 @@
+origin,index,actual,prediction,method,item
+460,460,103.0,88.0,seasonal7,Cafe com leite
+460,461,0.0,0.0,seasonal7,Cafe com leite
+460,462,57.0,67.0,seasonal7,Cafe com leite
+460,463,65.0,63.0,seasonal7,Cafe com leite
+460,464,70.0,71.0,seasonal7,Cafe com leite
+460,465,71.0,72.0,seasonal7,Cafe com leite
+460,466,86.0,82.0,seasonal7,Cafe com leite
+467,467,99.0,103.0,seasonal7,Cafe com leite
+467,468,0.0,0.0,seasonal7,Cafe com leite
+467,469,67.0,57.0,seasonal7,Cafe com leite
+467,470,64.0,65.0,seasonal7,Cafe com leite
+467,471,66.0,70.0,seasonal7,Cafe com leite
+467,472,80.0,71.0,seasonal7,Cafe com leite
+467,473,90.0,86.0,seasonal7,Cafe com leite
+474,474,90.0,99.0,seasonal7,Cafe com leite
+474,475,0.0,0.0,seasonal7,Cafe com leite
+474,476,75.0,67.0,seasonal7,Cafe com leite
+474,477,62.0,64.0,seasonal7,Cafe com leite
+474,478,69.0,66.0,seasonal7,Cafe com leite
+474,479,74.0,80.0,seasonal7,Cafe com leite
+474,480,85.0,90.0,seasonal7,Cafe com leite
+481,481,100.0,90.0,seasonal7,Cafe com leite
+481,482,0.0,0.0,seasonal7,Cafe com leite
+481,483,68.0,75.0,seasonal7,Cafe com leite
+481,484,56.0,62.0,seasonal7,Cafe com leite
+481,485,64.0,69.0,seasonal7,Cafe com leite
+481,486,69.0,74.0,seasonal7,Cafe com leite
+481,487,78.0,85.0,seasonal7,Cafe com leite
+488,488,97.0,100.0,seasonal7,Cafe com leite
+488,489,0.0,0.0,seasonal7,Cafe com leite
+488,490,67.0,68.0,seasonal7,Cafe com leite
+488,491,62.0,56.0,seasonal7,Cafe com leite
+488,492,66.0,64.0,seasonal7,Cafe com leite
+488,493,64.0,69.0,seasonal7,Cafe com leite
+488,494,92.0,78.0,seasonal7,Cafe com leite
+495,495,94.0,97.0,seasonal7,Cafe com leite
+495,496,0.0,0.0,seasonal7,Cafe com leite
+495,497,61.0,67.0,seasonal7,Cafe com leite
+495,498,55.0,62.0,seasonal7,Cafe com leite
+495,499,64.0,66.0,seasonal7,Cafe com leite
+495,500,64.0,64.0,seasonal7,Cafe com leite
+495,501,83.0,92.0,seasonal7,Cafe com leite
+502,502,82.0,94.0,seasonal7,Cafe com leite
+502,503,0.0,0.0,seasonal7,Cafe com leite
+502,504,75.0,61.0,seasonal7,Cafe com leite
+502,505,55.0,55.0,seasonal7,Cafe com leite
+502,506,70.0,64.0,seasonal7,Cafe com leite
+502,507,60.0,64.0,seasonal7,Cafe com leite
+502,508,85.0,83.0,seasonal7,Cafe com leite
+509,509,99.0,82.0,seasonal7,Cafe com leite
+509,510,0.0,0.0,seasonal7,Cafe com leite
+509,511,53.0,75.0,seasonal7,Cafe com leite
+509,512,59.0,55.0,seasonal7,Cafe com leite
+509,513,63.0,70.0,seasonal7,Cafe com leite
+509,514,57.0,60.0,seasonal7,Cafe com leite
+509,515,77.0,85.0,seasonal7,Cafe com leite
+516,516,92.0,99.0,seasonal7,Cafe com leite
+516,517,0.0,0.0,seasonal7,Cafe com leite
+516,518,66.0,53.0,seasonal7,Cafe com leite
+516,519,49.0,59.0,seasonal7,Cafe com leite
+516,520,62.0,63.0,seasonal7,Cafe com leite
+516,521,63.0,57.0,seasonal7,Cafe com leite
+516,522,87.0,77.0,seasonal7,Cafe com leite
+523,523,90.0,92.0,seasonal7,Cafe com leite
+523,524,0.0,0.0,seasonal7,Cafe com leite
+523,525,55.0,66.0,seasonal7,Cafe com leite
+523,526,48.0,49.0,seasonal7,Cafe com leite
+523,527,64.0,62.0,seasonal7,Cafe com leite
+523,528,69.0,63.0,seasonal7,Cafe com leite
+523,529,83.0,87.0,seasonal7,Cafe com leite
+530,530,88.0,90.0,seasonal7,Cafe com leite
+530,531,0.0,0.0,seasonal7,Cafe com leite
+530,532,63.0,55.0,seasonal7,Cafe com leite
+530,533,53.0,48.0,seasonal7,Cafe com leite
+530,534,64.0,64.0,seasonal7,Cafe com leite
+530,535,68.0,69.0,seasonal7,Cafe com leite
+530,536,88.0,83.0,seasonal7,Cafe com leite
+537,537,94.0,88.0,seasonal7,Cafe com leite
+537,538,0.0,0.0,seasonal7,Cafe com leite
+537,539,64.0,63.0,seasonal7,Cafe com leite
+537,540,60.0,53.0,seasonal7,Cafe com leite
+537,541,61.0,64.0,seasonal7,Cafe com leite
+537,542,72.0,68.0,seasonal7,Cafe com leite
+537,543,76.0,88.0,seasonal7,Cafe com leite
+460,460,103.0,63.285714285714285,moving7,Cafe com leite
+460,461,0.0,63.285714285714285,moving7,Cafe com leite
+460,462,57.0,63.285714285714285,moving7,Cafe com leite
+460,463,65.0,63.285714285714285,moving7,Cafe com leite
+460,464,70.0,63.285714285714285,moving7,Cafe com leite
+460,465,71.0,63.285714285714285,moving7,Cafe com leite
+460,466,86.0,63.285714285714285,moving7,Cafe com leite
+467,467,99.0,64.57142857142857,moving7,Cafe com leite
+467,468,0.0,64.57142857142857,moving7,Cafe com leite
+467,469,67.0,64.57142857142857,moving7,Cafe com leite
+467,470,64.0,64.57142857142857,moving7,Cafe com leite
+467,471,66.0,64.57142857142857,moving7,Cafe com leite
+467,472,80.0,64.57142857142857,moving7,Cafe com leite
+467,473,90.0,64.57142857142857,moving7,Cafe com leite
+474,474,90.0,66.57142857142857,moving7,Cafe com leite
+474,475,0.0,66.57142857142857,moving7,Cafe com leite
+474,476,75.0,66.57142857142857,moving7,Cafe com leite
+474,477,62.0,66.57142857142857,moving7,Cafe com leite
+474,478,69.0,66.57142857142857,moving7,Cafe com leite
+474,479,74.0,66.57142857142857,moving7,Cafe com leite
+474,480,85.0,66.57142857142857,moving7,Cafe com leite
+481,481,100.0,65.0,moving7,Cafe com leite
+481,482,0.0,65.0,moving7,Cafe com leite
+481,483,68.0,65.0,moving7,Cafe com leite
+481,484,56.0,65.0,moving7,Cafe com leite
+481,485,64.0,65.0,moving7,Cafe com leite
+481,486,69.0,65.0,moving7,Cafe com leite
+481,487,78.0,65.0,moving7,Cafe com leite
+488,488,97.0,62.142857142857146,moving7,Cafe com leite
+488,489,0.0,62.142857142857146,moving7,Cafe com leite
+488,490,67.0,62.142857142857146,moving7,Cafe com leite
+488,491,62.0,62.142857142857146,moving7,Cafe com leite
+488,492,66.0,62.142857142857146,moving7,Cafe com leite
+488,493,64.0,62.142857142857146,moving7,Cafe com leite
+488,494,92.0,62.142857142857146,moving7,Cafe com leite
+495,495,94.0,64.0,moving7,Cafe com leite
+495,496,0.0,64.0,moving7,Cafe com leite
+495,497,61.0,64.0,moving7,Cafe com leite
+495,498,55.0,64.0,moving7,Cafe com leite
+495,499,64.0,64.0,moving7,Cafe com leite
+495,500,64.0,64.0,moving7,Cafe com leite
+495,501,83.0,64.0,moving7,Cafe com leite
+502,502,82.0,60.142857142857146,moving7,Cafe com leite
+502,503,0.0,60.142857142857146,moving7,Cafe com leite
+502,504,75.0,60.142857142857146,moving7,Cafe com leite
+502,505,55.0,60.142857142857146,moving7,Cafe com leite
+502,506,70.0,60.142857142857146,moving7,Cafe com leite
+502,507,60.0,60.142857142857146,moving7,Cafe com leite
+502,508,85.0,60.142857142857146,moving7,Cafe com leite
+509,509,99.0,61.0,moving7,Cafe com leite
+509,510,0.0,61.0,moving7,Cafe com leite
+509,511,53.0,61.0,moving7,Cafe com leite
+509,512,59.0,61.0,moving7,Cafe com leite
+509,513,63.0,61.0,moving7,Cafe com leite
+509,514,57.0,61.0,moving7,Cafe com leite
+509,515,77.0,61.0,moving7,Cafe com leite
+516,516,92.0,58.285714285714285,moving7,Cafe com leite
+516,517,0.0,58.285714285714285,moving7,Cafe com leite
+516,518,66.0,58.285714285714285,moving7,Cafe com leite
+516,519,49.0,58.285714285714285,moving7,Cafe com leite
+516,520,62.0,58.285714285714285,moving7,Cafe com leite
+516,521,63.0,58.285714285714285,moving7,Cafe com leite
+516,522,87.0,58.285714285714285,moving7,Cafe com leite
+523,523,90.0,59.857142857142854,moving7,Cafe com leite
+523,524,0.0,59.857142857142854,moving7,Cafe com leite
+523,525,55.0,59.857142857142854,moving7,Cafe com leite
+523,526,48.0,59.857142857142854,moving7,Cafe com leite
+523,527,64.0,59.857142857142854,moving7,Cafe com leite
+523,528,69.0,59.857142857142854,moving7,Cafe com leite
+523,529,83.0,59.857142857142854,moving7,Cafe com leite
+530,530,88.0,58.42857142857143,moving7,Cafe com leite
+530,531,0.0,58.42857142857143,moving7,Cafe com leite
+530,532,63.0,58.42857142857143,moving7,Cafe com leite
+530,533,53.0,58.42857142857143,moving7,Cafe com leite
+530,534,64.0,58.42857142857143,moving7,Cafe com leite
+530,535,68.0,58.42857142857143,moving7,Cafe com leite
+530,536,88.0,58.42857142857143,moving7,Cafe com leite
+537,537,94.0,60.57142857142857,moving7,Cafe com leite
+537,538,0.0,60.57142857142857,moving7,Cafe com leite
+537,539,64.0,60.57142857142857,moving7,Cafe com leite
+537,540,60.0,60.57142857142857,moving7,Cafe com leite
+537,541,61.0,60.57142857142857,moving7,Cafe com leite
+537,542,72.0,60.57142857142857,moving7,Cafe com leite
+537,543,76.0,60.57142857142857,moving7,Cafe com leite
+460,460,103.0,68.68302057603043,ses025,Cafe com leite
+460,461,0.0,68.68302057603043,ses025,Cafe com leite
+460,462,57.0,68.68302057603043,ses025,Cafe com leite
+460,463,65.0,68.68302057603043,ses025,Cafe com leite
+460,464,70.0,68.68302057603043,ses025,Cafe com leite
+460,465,71.0,68.68302057603043,ses025,Cafe com leite
+460,466,86.0,68.68302057603043,ses025,Cafe com leite
+467,467,99.0,69.77153112791618,ses025,Cafe com leite
+467,468,0.0,69.77153112791618,ses025,Cafe com leite
+467,469,67.0,69.77153112791618,ses025,Cafe com leite
+467,470,64.0,69.77153112791618,ses025,Cafe com leite
+467,471,66.0,69.77153112791618,ses025,Cafe com leite
+467,472,80.0,69.77153112791618,ses025,Cafe com leite
+467,473,90.0,69.77153112791618,ses025,Cafe com leite
+474,474,90.0,72.54939810649125,ses025,Cafe com leite
+474,475,0.0,72.54939810649125,ses025,Cafe com leite
+474,476,75.0,72.54939810649125,ses025,Cafe com leite
+474,477,62.0,72.54939810649125,ses025,Cafe com leite
+474,478,69.0,72.54939810649125,ses025,Cafe com leite
+474,479,74.0,72.54939810649125,ses025,Cafe com leite
+474,480,85.0,72.54939810649125,ses025,Cafe com leite
+481,481,100.0,70.98849692742287,ses025,Cafe com leite
+481,482,0.0,70.98849692742287,ses025,Cafe com leite
+481,483,68.0,70.98849692742287,ses025,Cafe com leite
+481,484,56.0,70.98849692742287,ses025,Cafe com leite
+481,485,64.0,70.98849692742287,ses025,Cafe com leite
+481,486,69.0,70.98849692742287,ses025,Cafe com leite
+481,487,78.0,70.98849692742287,ses025,Cafe com leite
+488,488,97.0,66.64793962281945,ses025,Cafe com leite
+488,489,0.0,66.64793962281945,ses025,Cafe com leite
+488,490,67.0,66.64793962281945,ses025,Cafe com leite
+488,491,62.0,66.64793962281945,ses025,Cafe com leite
+488,492,66.0,66.64793962281945,ses025,Cafe com leite
+488,493,64.0,66.64793962281945,ses025,Cafe com leite
+488,494,92.0,66.64793962281945,ses025,Cafe com leite
+495,495,94.0,69.33252221405678,ses025,Cafe com leite
+495,496,0.0,69.33252221405678,ses025,Cafe com leite
+495,497,61.0,69.33252221405678,ses025,Cafe com leite
+495,498,55.0,69.33252221405678,ses025,Cafe com leite
+495,499,64.0,69.33252221405678,ses025,Cafe com leite
+495,500,64.0,69.33252221405678,ses025,Cafe com leite
+495,501,83.0,69.33252221405678,ses025,Cafe com leite
+502,502,82.0,65.81324622083388,ses025,Cafe com leite
+502,503,0.0,65.81324622083388,ses025,Cafe com leite
+502,504,75.0,65.81324622083388,ses025,Cafe com leite
+502,505,55.0,65.81324622083388,ses025,Cafe com leite
+502,506,70.0,65.81324622083388,ses025,Cafe com leite
+502,507,60.0,65.81324622083388,ses025,Cafe com leite
+502,508,85.0,65.81324622083388,ses025,Cafe com leite
+509,509,99.0,66.51071591094748,ses025,Cafe com leite
+509,510,0.0,66.51071591094748,ses025,Cafe com leite
+509,511,53.0,66.51071591094748,ses025,Cafe com leite
+509,512,59.0,66.51071591094748,ses025,Cafe com leite
+509,513,63.0,66.51071591094748,ses025,Cafe com leite
+509,514,57.0,66.51071591094748,ses025,Cafe com leite
+509,515,77.0,66.51071591094748,ses025,Cafe com leite
+516,516,92.0,62.49499119245863,ses025,Cafe com leite
+516,517,0.0,62.49499119245863,ses025,Cafe com leite
+516,518,66.0,62.49499119245863,ses025,Cafe com leite
+516,519,49.0,62.49499119245863,ses025,Cafe com leite
+516,520,62.0,62.49499119245863,ses025,Cafe com leite
+516,521,63.0,62.49499119245863,ses025,Cafe com leite
+516,522,87.0,62.49499119245863,ses025,Cafe com leite
+523,523,90.0,65.10550205919843,ses025,Cafe com leite
+523,524,0.0,65.10550205919843,ses025,Cafe com leite
+523,525,55.0,65.10550205919843,ses025,Cafe com leite
+523,526,48.0,65.10550205919843,ses025,Cafe com leite
+523,527,64.0,65.10550205919843,ses025,Cafe com leite
+523,528,69.0,65.10550205919843,ses025,Cafe com leite
+523,529,83.0,65.10550205919843,ses025,Cafe com leite
+530,530,88.0,64.79563800069988,ses025,Cafe com leite
+530,531,0.0,64.79563800069988,ses025,Cafe com leite
+530,532,63.0,64.79563800069988,ses025,Cafe com leite
+530,533,53.0,64.79563800069988,ses025,Cafe com leite
+530,534,64.0,64.79563800069988,ses025,Cafe com leite
+530,535,68.0,64.79563800069988,ses025,Cafe com leite
+530,536,88.0,64.79563800069988,ses025,Cafe com leite
+537,537,94.0,66.88794313400456,ses025,Cafe com leite
+537,538,0.0,66.88794313400456,ses025,Cafe com leite
+537,539,64.0,66.88794313400456,ses025,Cafe com leite
+537,540,60.0,66.88794313400456,ses025,Cafe com leite
+537,541,61.0,66.88794313400456,ses025,Cafe com leite
+537,542,72.0,66.88794313400456,ses025,Cafe com leite
+537,543,76.0,66.88794313400456,ses025,Cafe com leite
+460,460,62.0,51.0,seasonal7,Cappuccino
+460,461,0.0,0.0,seasonal7,Cappuccino
+460,462,48.0,44.0,seasonal7,Cappuccino
+460,463,47.0,33.0,seasonal7,Cappuccino
+460,464,45.0,40.0,seasonal7,Cappuccino
+460,465,48.0,40.0,seasonal7,Cappuccino
+460,466,56.0,56.0,seasonal7,Cappuccino
+467,467,64.0,62.0,seasonal7,Cappuccino
+467,468,0.0,0.0,seasonal7,Cappuccino
+467,469,39.0,48.0,seasonal7,Cappuccino
+467,470,32.0,47.0,seasonal7,Cappuccino
+467,471,42.0,45.0,seasonal7,Cappuccino
+467,472,45.0,48.0,seasonal7,Cappuccino
+467,473,66.0,56.0,seasonal7,Cappuccino
+474,474,52.0,64.0,seasonal7,Cappuccino
+474,475,0.0,0.0,seasonal7,Cappuccino
+474,476,35.0,39.0,seasonal7,Cappuccino
+474,477,39.0,32.0,seasonal7,Cappuccino
+474,478,36.0,42.0,seasonal7,Cappuccino
+474,479,44.0,45.0,seasonal7,Cappuccino
+474,480,58.0,66.0,seasonal7,Cappuccino
+481,481,57.0,52.0,seasonal7,Cappuccino
+481,482,0.0,0.0,seasonal7,Cappuccino
+481,483,36.0,35.0,seasonal7,Cappuccino
+481,484,33.0,39.0,seasonal7,Cappuccino
+481,485,38.0,36.0,seasonal7,Cappuccino
+481,486,45.0,44.0,seasonal7,Cappuccino
+481,487,61.0,58.0,seasonal7,Cappuccino
+488,488,63.0,57.0,seasonal7,Cappuccino
+488,489,0.0,0.0,seasonal7,Cappuccino
+488,490,41.0,36.0,seasonal7,Cappuccino
+488,491,37.0,33.0,seasonal7,Cappuccino
+488,492,35.0,38.0,seasonal7,Cappuccino
+488,493,46.0,45.0,seasonal7,Cappuccino
+488,494,47.0,61.0,seasonal7,Cappuccino
+495,495,59.0,63.0,seasonal7,Cappuccino
+495,496,0.0,0.0,seasonal7,Cappuccino
+495,497,34.0,41.0,seasonal7,Cappuccino
+495,498,36.0,37.0,seasonal7,Cappuccino
+495,499,31.0,35.0,seasonal7,Cappuccino
+495,500,43.0,46.0,seasonal7,Cappuccino
+495,501,62.0,47.0,seasonal7,Cappuccino
+502,502,52.0,59.0,seasonal7,Cappuccino
+502,503,0.0,0.0,seasonal7,Cappuccino
+502,504,31.0,34.0,seasonal7,Cappuccino
+502,505,39.0,36.0,seasonal7,Cappuccino
+502,506,42.0,31.0,seasonal7,Cappuccino
+502,507,41.0,43.0,seasonal7,Cappuccino
+502,508,46.0,62.0,seasonal7,Cappuccino
+509,509,56.0,52.0,seasonal7,Cappuccino
+509,510,0.0,0.0,seasonal7,Cappuccino
+509,511,33.0,31.0,seasonal7,Cappuccino
+509,512,34.0,39.0,seasonal7,Cappuccino
+509,513,34.0,42.0,seasonal7,Cappuccino
+509,514,33.0,41.0,seasonal7,Cappuccino
+509,515,45.0,46.0,seasonal7,Cappuccino
+516,516,45.0,56.0,seasonal7,Cappuccino
+516,517,0.0,0.0,seasonal7,Cappuccino
+516,518,40.0,33.0,seasonal7,Cappuccino
+516,519,32.0,34.0,seasonal7,Cappuccino
+516,520,39.0,34.0,seasonal7,Cappuccino
+516,521,38.0,33.0,seasonal7,Cappuccino
+516,522,46.0,45.0,seasonal7,Cappuccino
+523,523,52.0,45.0,seasonal7,Cappuccino
+523,524,0.0,0.0,seasonal7,Cappuccino
+523,525,32.0,40.0,seasonal7,Cappuccino
+523,526,30.0,32.0,seasonal7,Cappuccino
+523,527,37.0,39.0,seasonal7,Cappuccino
+523,528,37.0,38.0,seasonal7,Cappuccino
+523,529,46.0,46.0,seasonal7,Cappuccino
+530,530,57.0,52.0,seasonal7,Cappuccino
+530,531,0.0,0.0,seasonal7,Cappuccino
+530,532,43.0,32.0,seasonal7,Cappuccino
+530,533,32.0,30.0,seasonal7,Cappuccino
+530,534,33.0,37.0,seasonal7,Cappuccino
+530,535,42.0,37.0,seasonal7,Cappuccino
+530,536,46.0,46.0,seasonal7,Cappuccino
+537,537,53.0,57.0,seasonal7,Cappuccino
+537,538,0.0,0.0,seasonal7,Cappuccino
+537,539,43.0,43.0,seasonal7,Cappuccino
+537,540,44.0,32.0,seasonal7,Cappuccino
+537,541,47.0,33.0,seasonal7,Cappuccino
+537,542,38.0,42.0,seasonal7,Cappuccino
+537,543,43.0,46.0,seasonal7,Cappuccino
+460,460,62.0,37.714285714285715,moving7,Cappuccino
+460,461,0.0,37.714285714285715,moving7,Cappuccino
+460,462,48.0,37.714285714285715,moving7,Cappuccino
+460,463,47.0,37.714285714285715,moving7,Cappuccino
+460,464,45.0,37.714285714285715,moving7,Cappuccino
+460,465,48.0,37.714285714285715,moving7,Cappuccino
+460,466,56.0,37.714285714285715,moving7,Cappuccino
+467,467,64.0,43.714285714285715,moving7,Cappuccino
+467,468,0.0,43.714285714285715,moving7,Cappuccino
+467,469,39.0,43.714285714285715,moving7,Cappuccino
+467,470,32.0,43.714285714285715,moving7,Cappuccino
+467,471,42.0,43.714285714285715,moving7,Cappuccino
+467,472,45.0,43.714285714285715,moving7,Cappuccino
+467,473,66.0,43.714285714285715,moving7,Cappuccino
+474,474,52.0,41.142857142857146,moving7,Cappuccino
+474,475,0.0,41.142857142857146,moving7,Cappuccino
+474,476,35.0,41.142857142857146,moving7,Cappuccino
+474,477,39.0,41.142857142857146,moving7,Cappuccino
+474,478,36.0,41.142857142857146,moving7,Cappuccino
+474,479,44.0,41.142857142857146,moving7,Cappuccino
+474,480,58.0,41.142857142857146,moving7,Cappuccino
+481,481,57.0,37.714285714285715,moving7,Cappuccino
+481,482,0.0,37.714285714285715,moving7,Cappuccino
+481,483,36.0,37.714285714285715,moving7,Cappuccino
+481,484,33.0,37.714285714285715,moving7,Cappuccino
+481,485,38.0,37.714285714285715,moving7,Cappuccino
+481,486,45.0,37.714285714285715,moving7,Cappuccino
+481,487,61.0,37.714285714285715,moving7,Cappuccino
+488,488,63.0,38.57142857142857,moving7,Cappuccino
+488,489,0.0,38.57142857142857,moving7,Cappuccino
+488,490,41.0,38.57142857142857,moving7,Cappuccino
+488,491,37.0,38.57142857142857,moving7,Cappuccino
+488,492,35.0,38.57142857142857,moving7,Cappuccino
+488,493,46.0,38.57142857142857,moving7,Cappuccino
+488,494,47.0,38.57142857142857,moving7,Cappuccino
+495,495,59.0,38.42857142857143,moving7,Cappuccino
+495,496,0.0,38.42857142857143,moving7,Cappuccino
+495,497,34.0,38.42857142857143,moving7,Cappuccino
+495,498,36.0,38.42857142857143,moving7,Cappuccino
+495,499,31.0,38.42857142857143,moving7,Cappuccino
+495,500,43.0,38.42857142857143,moving7,Cappuccino
+495,501,62.0,38.42857142857143,moving7,Cappuccino
+502,502,52.0,37.857142857142854,moving7,Cappuccino
+502,503,0.0,37.857142857142854,moving7,Cappuccino
+502,504,31.0,37.857142857142854,moving7,Cappuccino
+502,505,39.0,37.857142857142854,moving7,Cappuccino
+502,506,42.0,37.857142857142854,moving7,Cappuccino
+502,507,41.0,37.857142857142854,moving7,Cappuccino
+502,508,46.0,37.857142857142854,moving7,Cappuccino
+509,509,56.0,35.857142857142854,moving7,Cappuccino
+509,510,0.0,35.857142857142854,moving7,Cappuccino
+509,511,33.0,35.857142857142854,moving7,Cappuccino
+509,512,34.0,35.857142857142854,moving7,Cappuccino
+509,513,34.0,35.857142857142854,moving7,Cappuccino
+509,514,33.0,35.857142857142854,moving7,Cappuccino
+509,515,45.0,35.857142857142854,moving7,Cappuccino
+516,516,45.0,33.57142857142857,moving7,Cappuccino
+516,517,0.0,33.57142857142857,moving7,Cappuccino
+516,518,40.0,33.57142857142857,moving7,Cappuccino
+516,519,32.0,33.57142857142857,moving7,Cappuccino
+516,520,39.0,33.57142857142857,moving7,Cappuccino
+516,521,38.0,33.57142857142857,moving7,Cappuccino
+516,522,46.0,33.57142857142857,moving7,Cappuccino
+523,523,52.0,34.285714285714285,moving7,Cappuccino
+523,524,0.0,34.285714285714285,moving7,Cappuccino
+523,525,32.0,34.285714285714285,moving7,Cappuccino
+523,526,30.0,34.285714285714285,moving7,Cappuccino
+523,527,37.0,34.285714285714285,moving7,Cappuccino
+523,528,37.0,34.285714285714285,moving7,Cappuccino
+523,529,46.0,34.285714285714285,moving7,Cappuccino
+530,530,57.0,33.42857142857143,moving7,Cappuccino
+530,531,0.0,33.42857142857143,moving7,Cappuccino
+530,532,43.0,33.42857142857143,moving7,Cappuccino
+530,533,32.0,33.42857142857143,moving7,Cappuccino
+530,534,33.0,33.42857142857143,moving7,Cappuccino
+530,535,42.0,33.42857142857143,moving7,Cappuccino
+530,536,46.0,33.42857142857143,moving7,Cappuccino
+537,537,53.0,36.142857142857146,moving7,Cappuccino
+537,538,0.0,36.142857142857146,moving7,Cappuccino
+537,539,43.0,36.142857142857146,moving7,Cappuccino
+537,540,44.0,36.142857142857146,moving7,Cappuccino
+537,541,47.0,36.142857142857146,moving7,Cappuccino
+537,542,38.0,36.142857142857146,moving7,Cappuccino
+537,543,43.0,36.142857142857146,moving7,Cappuccino
+460,460,62.0,41.673424296990405,ses025,Cappuccino
+460,461,0.0,41.673424296990405,ses025,Cappuccino
+460,462,48.0,41.673424296990405,ses025,Cappuccino
+460,463,47.0,41.673424296990405,ses025,Cappuccino
+460,464,45.0,41.673424296990405,ses025,Cappuccino
+460,465,48.0,41.673424296990405,ses025,Cappuccino
+460,466,56.0,41.673424296990405,ses025,Cappuccino
+467,467,64.0,46.40342889022938,ses025,Cappuccino
+467,468,0.0,46.40342889022938,ses025,Cappuccino
+467,469,39.0,46.40342889022938,ses025,Cappuccino
+467,470,32.0,46.40342889022938,ses025,Cappuccino
+467,471,42.0,46.40342889022938,ses025,Cappuccino
+467,472,45.0,46.40342889022938,ses025,Cappuccino
+467,473,66.0,46.40342889022938,ses025,Cappuccino
+474,474,52.0,46.34547723284494,ses025,Cappuccino
+474,475,0.0,46.34547723284494,ses025,Cappuccino
+474,476,35.0,46.34547723284494,ses025,Cappuccino
+474,477,39.0,46.34547723284494,ses025,Cappuccino
+474,478,36.0,46.34547723284494,ses025,Cappuccino
+474,479,44.0,46.34547723284494,ses025,Cappuccino
+474,480,58.0,46.34547723284494,ses025,Cappuccino
+481,481,57.0,43.19443107350048,ses025,Cappuccino
+481,482,0.0,43.19443107350048,ses025,Cappuccino
+481,483,36.0,43.19443107350048,ses025,Cappuccino
+481,484,33.0,43.19443107350048,ses025,Cappuccino
+481,485,38.0,43.19443107350048,ses025,Cappuccino
+481,486,45.0,43.19443107350048,ses025,Cappuccino
+481,487,61.0,43.19443107350048,ses025,Cappuccino
+488,488,63.0,43.661329391952236,ses025,Cappuccino
+488,489,0.0,43.661329391952236,ses025,Cappuccino
+488,490,41.0,43.661329391952236,ses025,Cappuccino
+488,491,37.0,43.661329391952236,ses025,Cappuccino
+488,492,35.0,43.661329391952236,ses025,Cappuccino
+488,493,46.0,43.661329391952236,ses025,Cappuccino
+488,494,47.0,43.661329391952236,ses025,Cappuccino
+495,495,59.0,41.073628380139134,ses025,Cappuccino
+495,496,0.0,41.073628380139134,ses025,Cappuccino
+495,497,34.0,41.073628380139134,ses025,Cappuccino
+495,498,36.0,41.073628380139134,ses025,Cappuccino
+495,499,31.0,41.073628380139134,ses025,Cappuccino
+495,500,43.0,41.073628380139134,ses025,Cappuccino
+495,501,62.0,41.073628380139134,ses025,Cappuccino
+502,502,52.0,42.51605378829127,ses025,Cappuccino
+502,503,0.0,42.51605378829127,ses025,Cappuccino
+502,504,31.0,42.51605378829127,ses025,Cappuccino
+502,505,39.0,42.51605378829127,ses025,Cappuccino
+502,506,42.0,42.51605378829127,ses025,Cappuccino
+502,507,41.0,42.51605378829127,ses025,Cappuccino
+502,508,46.0,42.51605378829127,ses025,Cappuccino
+509,509,56.0,39.648108498229554,ses025,Cappuccino
+509,510,0.0,39.648108498229554,ses025,Cappuccino
+509,511,33.0,39.648108498229554,ses025,Cappuccino
+509,512,34.0,39.648108498229554,ses025,Cappuccino
+509,513,34.0,39.648108498229554,ses025,Cappuccino
+509,514,33.0,39.648108498229554,ses025,Cappuccino
+509,515,45.0,39.648108498229554,ses025,Cappuccino
+516,516,45.0,36.199121904640386,ses025,Cappuccino
+516,517,0.0,36.199121904640386,ses025,Cappuccino
+516,518,40.0,36.199121904640386,ses025,Cappuccino
+516,519,32.0,36.199121904640386,ses025,Cappuccino
+516,520,39.0,36.199121904640386,ses025,Cappuccino
+516,521,38.0,36.199121904640386,ses025,Cappuccino
+516,522,46.0,36.199121904640386,ses025,Cappuccino
+523,523,52.0,37.48269528841849,ses025,Cappuccino
+523,524,0.0,37.48269528841849,ses025,Cappuccino
+523,525,32.0,37.48269528841849,ses025,Cappuccino
+523,526,30.0,37.48269528841849,ses025,Cappuccino
+523,527,37.0,37.48269528841849,ses025,Cappuccino
+523,528,37.0,37.48269528841849,ses025,Cappuccino
+523,529,46.0,37.48269528841849,ses025,Cappuccino
+530,530,57.0,36.65299405491768,ses025,Cappuccino
+530,531,0.0,36.65299405491768,ses025,Cappuccino
+530,532,43.0,36.65299405491768,ses025,Cappuccino
+530,533,32.0,36.65299405491768,ses025,Cappuccino
+530,534,33.0,36.65299405491768,ses025,Cappuccino
+530,535,42.0,36.65299405491768,ses025,Cappuccino
+530,536,46.0,36.65299405491768,ses025,Cappuccino
+537,537,53.0,38.2207701414859,ses025,Cappuccino
+537,538,0.0,38.2207701414859,ses025,Cappuccino
+537,539,43.0,38.2207701414859,ses025,Cappuccino
+537,540,44.0,38.2207701414859,ses025,Cappuccino
+537,541,47.0,38.2207701414859,ses025,Cappuccino
+537,542,38.0,38.2207701414859,ses025,Cappuccino
+537,543,43.0,38.2207701414859,ses025,Cappuccino

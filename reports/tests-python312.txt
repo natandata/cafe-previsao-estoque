@@ -1,0 +1,43 @@
+test_01_generator_seed (test_pipeline.ForecastTests.test_01_generator_seed) ... ok
+test_02_daily_complete (test_pipeline.ForecastTests.test_02_daily_complete) ... ok
+test_03_missing_is_not_zero (test_pipeline.ForecastTests.test_03_missing_is_not_zero) ... ok
+test_04_duplicate_rejected (test_pipeline.ForecastTests.test_04_duplicate_rejected) ... ok
+test_05_unobserved_rejected (test_pipeline.ForecastTests.test_05_unobserved_rejected) ... ok
+test_06_negative_rejected (test_pipeline.ForecastTests.test_06_negative_rejected) ... ok
+test_07_fraction_rejected (test_pipeline.ForecastTests.test_07_fraction_rejected) ... ok
+test_08_closed_zero (test_pipeline.ForecastTests.test_08_closed_zero) ... ok
+test_09_closed_conflict (test_pipeline.ForecastTests.test_09_closed_conflict) ... ok
+test_10_unknown_recipe (test_pipeline.ForecastTests.test_10_unknown_recipe) ... ok
+test_11_seasonal_exact (test_pipeline.ForecastTests.test_11_seasonal_exact) ... ok
+test_12_moving_exact (test_pipeline.ForecastTests.test_12_moving_exact) ... ok
+test_13_ses_constant (test_pipeline.ForecastTests.test_13_ses_constant) ... ok
+test_14_short_history (test_pipeline.ForecastTests.test_14_short_history) ... ok
+test_15_bad_method (test_pipeline.ForecastTests.test_15_bad_method) ... ok
+test_16_future_invariance (test_pipeline.ForecastTests.test_16_future_invariance) ... ok
+test_17_origin_before_target (test_pipeline.ForecastTests.test_17_origin_before_target) ... ok
+test_18_partial_horizon (test_pipeline.ForecastTests.test_18_partial_horizon) ... ok
+test_19_no_cross_boundary (test_pipeline.ForecastTests.test_19_no_cross_boundary) ... ok
+test_20_invalid_window (test_pipeline.ForecastTests.test_20_invalid_window) ... ok
+test_21_hand_calculated_levels (test_pipeline.InventoryTests.test_21_hand_calculated_levels) ... ok
+test_22_service_raises_safety (test_pipeline.InventoryTests.test_22_service_raises_safety) ... ok
+test_23_longer_lead_raises_rop (test_pipeline.InventoryTests.test_23_longer_lead_raises_rop) ... ok
+test_24_invalid_policy (test_pipeline.InventoryTests.test_24_invalid_policy) ... ok
+test_25_zero_demand (test_pipeline.InventoryTests.test_25_zero_demand) ... ok
+test_26_no_negative_inventory (test_pipeline.InventoryTests.test_26_no_negative_inventory) ... ok
+test_27_mass_balance (test_pipeline.InventoryTests.test_27_mass_balance) ... ok
+test_28_lost_sales_not_backlog (test_pipeline.InventoryTests.test_28_lost_sales_not_backlog) ... ok
+test_29_no_instant_delivery (test_pipeline.InventoryTests.test_29_no_instant_delivery) ... ok
+test_30_expiry_convention (test_pipeline.InventoryTests.test_30_expiry_convention) ... ok
+test_31_demands_conserved (test_pipeline.InventoryTests.test_31_demands_conserved) ... ok
+test_32_seed_path_is_repeatable (test_pipeline.InventoryTests.test_32_seed_path_is_repeatable) ... ok
+test_33_invalid_ml (test_pipeline.InventoryTests.test_33_invalid_ml) ... ok
+test_34_fefo_expires_old_lots (test_pipeline.InventoryTests.test_34_fefo_expires_old_lots) ... ok
+test_35_empty_path (test_pipeline.InventoryTests.test_35_empty_path) ... ok
+test_36_baseline_same_demand (test_pipeline.InventoryTests.test_36_baseline_same_demand) ... ok
+test_37_in_transit_not_double_ordered (test_pipeline.InventoryTests.test_37_in_transit_not_double_ordered) ... ok
+test_38_purchase_cost_tracks_ml (test_pipeline.InventoryTests.test_38_purchase_cost_tracks_ml) ... ok
+
+----------------------------------------------------------------------
+Ran 38 tests in 0.052s
+
+OK

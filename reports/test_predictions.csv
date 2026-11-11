@@ -1,0 +1,113 @@
+origin,index,actual,prediction,method,item
+544,544,101.0,94.0,seasonal7,Cafe com leite
+544,545,0.0,0.0,seasonal7,Cafe com leite
+544,546,69.0,64.0,seasonal7,Cafe com leite
+544,547,56.0,60.0,seasonal7,Cafe com leite
+544,548,67.0,61.0,seasonal7,Cafe com leite
+544,549,72.0,72.0,seasonal7,Cafe com leite
+544,550,95.0,76.0,seasonal7,Cafe com leite
+551,551,105.0,101.0,seasonal7,Cafe com leite
+551,552,0.0,0.0,seasonal7,Cafe com leite
+551,553,71.0,69.0,seasonal7,Cafe com leite
+551,554,68.0,56.0,seasonal7,Cafe com leite
+551,555,72.0,67.0,seasonal7,Cafe com leite
+551,556,73.0,72.0,seasonal7,Cafe com leite
+551,557,85.0,95.0,seasonal7,Cafe com leite
+558,558,104.0,105.0,seasonal7,Cafe com leite
+558,559,0.0,0.0,seasonal7,Cafe com leite
+558,560,67.0,71.0,seasonal7,Cafe com leite
+558,561,71.0,68.0,seasonal7,Cafe com leite
+558,562,73.0,72.0,seasonal7,Cafe com leite
+558,563,72.0,73.0,seasonal7,Cafe com leite
+558,564,99.0,85.0,seasonal7,Cafe com leite
+565,565,97.0,104.0,seasonal7,Cafe com leite
+565,566,0.0,0.0,seasonal7,Cafe com leite
+565,567,76.0,67.0,seasonal7,Cafe com leite
+565,568,77.0,71.0,seasonal7,Cafe com leite
+565,569,69.0,73.0,seasonal7,Cafe com leite
+565,570,76.0,72.0,seasonal7,Cafe com leite
+565,571,91.0,99.0,seasonal7,Cafe com leite
+572,572,95.0,97.0,seasonal7,Cafe com leite
+572,573,0.0,0.0,seasonal7,Cafe com leite
+572,574,73.0,76.0,seasonal7,Cafe com leite
+572,575,51.0,77.0,seasonal7,Cafe com leite
+572,576,59.0,69.0,seasonal7,Cafe com leite
+572,577,70.0,76.0,seasonal7,Cafe com leite
+572,578,84.0,91.0,seasonal7,Cafe com leite
+579,579,97.0,95.0,seasonal7,Cafe com leite
+579,580,0.0,0.0,seasonal7,Cafe com leite
+579,581,69.0,73.0,seasonal7,Cafe com leite
+579,582,54.0,51.0,seasonal7,Cafe com leite
+579,583,66.0,59.0,seasonal7,Cafe com leite
+579,584,67.0,70.0,seasonal7,Cafe com leite
+579,585,94.0,84.0,seasonal7,Cafe com leite
+586,586,94.0,97.0,seasonal7,Cafe com leite
+586,587,0.0,0.0,seasonal7,Cafe com leite
+586,588,59.0,69.0,seasonal7,Cafe com leite
+586,589,51.0,54.0,seasonal7,Cafe com leite
+586,590,63.0,66.0,seasonal7,Cafe com leite
+586,591,66.0,67.0,seasonal7,Cafe com leite
+586,592,82.0,94.0,seasonal7,Cafe com leite
+593,593,85.0,94.0,seasonal7,Cafe com leite
+593,594,0.0,0.0,seasonal7,Cafe com leite
+593,595,60.0,59.0,seasonal7,Cafe com leite
+593,596,59.0,51.0,seasonal7,Cafe com leite
+593,597,54.0,63.0,seasonal7,Cafe com leite
+593,598,69.0,66.0,seasonal7,Cafe com leite
+593,599,74.0,82.0,seasonal7,Cafe com leite
+544,544,56.0,53.0,seasonal7,Cappuccino
+544,545,0.0,0.0,seasonal7,Cappuccino
+544,546,42.0,43.0,seasonal7,Cappuccino
+544,547,36.0,44.0,seasonal7,Cappuccino
+544,548,41.0,47.0,seasonal7,Cappuccino
+544,549,51.0,38.0,seasonal7,Cappuccino
+544,550,58.0,43.0,seasonal7,Cappuccino
+551,551,64.0,56.0,seasonal7,Cappuccino
+551,552,0.0,0.0,seasonal7,Cappuccino
+551,553,47.0,42.0,seasonal7,Cappuccino
+551,554,40.0,36.0,seasonal7,Cappuccino
+551,555,37.0,41.0,seasonal7,Cappuccino
+551,556,53.0,51.0,seasonal7,Cappuccino
+551,557,51.0,58.0,seasonal7,Cappuccino
+558,558,61.0,64.0,seasonal7,Cappuccino
+558,559,0.0,0.0,seasonal7,Cappuccino
+558,560,49.0,47.0,seasonal7,Cappuccino
+558,561,44.0,40.0,seasonal7,Cappuccino
+558,562,45.0,37.0,seasonal7,Cappuccino
+558,563,54.0,53.0,seasonal7,Cappuccino
+558,564,58.0,51.0,seasonal7,Cappuccino
+565,565,52.0,61.0,seasonal7,Cappuccino
+565,566,0.0,0.0,seasonal7,Cappuccino
+565,567,47.0,49.0,seasonal7,Cappuccino
+565,568,36.0,44.0,seasonal7,Cappuccino
+565,569,41.0,45.0,seasonal7,Cappuccino
+565,570,44.0,54.0,seasonal7,Cappuccino
+565,571,52.0,58.0,seasonal7,Cappuccino
+572,572,56.0,52.0,seasonal7,Cappuccino
+572,573,0.0,0.0,seasonal7,Cappuccino
+572,574,47.0,47.0,seasonal7,Cappuccino
+572,575,38.0,36.0,seasonal7,Cappuccino
+572,576,37.0,41.0,seasonal7,Cappuccino
+572,577,45.0,44.0,seasonal7,Cappuccino
+572,578,50.0,52.0,seasonal7,Cappuccino
+579,579,56.0,56.0,seasonal7,Cappuccino
+579,580,0.0,0.0,seasonal7,Cappuccino
+579,581,37.0,47.0,seasonal7,Cappuccino
+579,582,35.0,38.0,seasonal7,Cappuccino
+579,583,42.0,37.0,seasonal7,Cappuccino
+579,584,36.0,45.0,seasonal7,Cappuccino
+579,585,49.0,50.0,seasonal7,Cappuccino
+586,586,53.0,56.0,seasonal7,Cappuccino
+586,587,0.0,0.0,seasonal7,Cappuccino
+586,588,43.0,37.0,seasonal7,Cappuccino
+586,589,41.0,35.0,seasonal7,Cappuccino
+586,590,39.0,42.0,seasonal7,Cappuccino
+586,591,34.0,36.0,seasonal7,Cappuccino
+586,592,45.0,49.0,seasonal7,Cappuccino
+593,593,56.0,53.0,seasonal7,Cappuccino
+593,594,0.0,0.0,seasonal7,Cappuccino
+593,595,27.0,43.0,seasonal7,Cappuccino
+593,596,31.0,41.0,seasonal7,Cappuccino
+593,597,34.0,39.0,seasonal7,Cappuccino
+593,598,32.0,34.0,seasonal7,Cappuccino
+593,599,52.0,45.0,seasonal7,Cappuccino

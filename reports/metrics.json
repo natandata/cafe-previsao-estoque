@@ -1,0 +1,182 @@
+{
+  "environment": {
+    "python": "3.10.12",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.9",
+    "seed": 20261111
+  },
+  "selections": {
+    "Cafe com leite": {
+      "method": "seasonal7",
+      "validation_mae": {
+        "seasonal7": 5.023809523809524,
+        "moving7": 19.54081632653061,
+        "ses025": 19.156703607215544
+      },
+      "train_days": 460,
+      "validation_days": 84,
+      "test_days": 56
+    },
+    "Cappuccino": {
+      "method": "seasonal7",
+      "validation_mae": {
+        "seasonal7": 4.666666666666667,
+        "moving7": 12.717687074829934,
+        "ses025": 12.593296288826
+      },
+      "train_days": 460,
+      "validation_days": 84,
+      "test_days": 56
+    }
+  },
+  "performance": [
+    {
+      "item": "Cafe com leite",
+      "mae_units": 5.178571428571429,
+      "wape": 0.08053318522632602
+    },
+    {
+      "item": "Cappuccino",
+      "mae_units": 4.428571428571429,
+      "wape": 0.1140754369825207
+    }
+  ],
+  "inventory_parameters": {
+    "mean_forecast_ml": 10548.57142857143,
+    "std_validation_error_ml": 1340.926970629739,
+    "recipes_ml": {
+      "Cafe com leite": 80,
+      "Cappuccino": 180
+    },
+    "shelf_days": 7,
+    "bootstrap_paths": 200,
+    "path_days": 90,
+    "demand_model": "previsao proxima semana + bootstrap de semanas de erro da validacao",
+    "purchase_cents_per_ml": 1,
+    "lost_margin_cents_per_ml": 2
+  },
+  "simulations": [
+    {
+      "policy": "fixed",
+      "lead_days": 2,
+      "service": 0.9,
+      "fill_rate_mean": 0.9955390105274868,
+      "fill_rate_p05": 0.9819524508818508,
+      "fill_rate_p95": 1.0,
+      "waste_liters_mean": 0.0,
+      "stock_liters_mean": 17.811766555555558,
+      "stockout_days_mean": 1.46,
+      "purchase_reais_mean": 9840.33,
+      "rop_ml": 23528,
+      "target_ml": 34623,
+      "safety_ml": 2431
+    },
+    {
+      "policy": "rop",
+      "lead_days": 2,
+      "service": 0.9,
+      "fill_rate_mean": 0.9704716324322022,
+      "fill_rate_p05": 0.9499834834681706,
+      "fill_rate_p95": 0.9860129974362009,
+      "waste_liters_mean": 0.0,
+      "stock_liters_mean": 11.788521,
+      "stockout_days_mean": 8.535,
+      "purchase_reais_mean": 9503.05205,
+      "rop_ml": 23528,
+      "target_ml": 34623,
+      "safety_ml": 2431
+    },
+    {
+      "policy": "fixed",
+      "lead_days": 2,
+      "service": 0.975,
+      "fill_rate_mean": 0.9963912990559737,
+      "fill_rate_p05": 0.9835892433101577,
+      "fill_rate_p95": 1.0,
+      "waste_liters_mean": 0.0,
+      "stock_liters_mean": 18.91847927777778,
+      "stockout_days_mean": 1.205,
+      "purchase_reais_mean": 9856.08,
+      "rop_ml": 24814,
+      "target_ml": 36198,
+      "safety_ml": 3717
+    },
+    {
+      "policy": "rop",
+      "lead_days": 2,
+      "service": 0.975,
+      "fill_rate_mean": 0.9804634558331241,
+      "fill_rate_p05": 0.96774389836441,
+      "fill_rate_p95": 0.9903378914869546,
+      "waste_liters_mean": 0.0,
+      "stock_liters_mean": 13.255744444444444,
+      "stockout_days_mean": 7.2,
+      "purchase_reais_mean": 9615.625,
+      "rop_ml": 24814,
+      "target_ml": 36198,
+      "safety_ml": 3717
+    },
+    {
+      "policy": "fixed",
+      "lead_days": 5,
+      "service": 0.9,
+      "fill_rate_mean": 0.9962215085925495,
+      "fill_rate_p05": 0.9832317470591498,
+      "fill_rate_p95": 1.0,
+      "waste_liters_mean": 0.0,
+      "stock_liters_mean": 19.722409,
+      "stockout_days_mean": 1.235,
+      "purchase_reais_mean": 10169.11,
+      "rop_ml": 56586,
+      "target_ml": 67501,
+      "safety_ml": 3843
+    },
+    {
+      "policy": "rop",
+      "lead_days": 5,
+      "service": 0.9,
+      "fill_rate_mean": 0.9512410193624854,
+      "fill_rate_p05": 0.9361085128897513,
+      "fill_rate_p95": 0.9684810614826457,
+      "waste_liters_mean": 0.0,
+      "stock_liters_mean": 16.10474616666667,
+      "stockout_days_mean": 8.65,
+      "purchase_reais_mean": 9646.17115,
+      "rop_ml": 56586,
+      "target_ml": 67501,
+      "safety_ml": 3843
+    },
+    {
+      "policy": "fixed",
+      "lead_days": 5,
+      "service": 0.975,
+      "fill_rate_mean": 0.9971990968398485,
+      "fill_rate_p05": 0.9855481980576871,
+      "fill_rate_p95": 1.0,
+      "waste_liters_mean": 0.12819999999999998,
+      "stock_liters_mean": 21.301245722222223,
+      "stockout_days_mean": 0.935,
+      "purchase_reais_mean": 10191.4,
+      "rop_ml": 58620,
+      "target_ml": 69730,
+      "safety_ml": 5877
+    },
+    {
+      "policy": "rop",
+      "lead_days": 5,
+      "service": 0.975,
+      "fill_rate_mean": 0.9655474436507435,
+      "fill_rate_p05": 0.9519891586085296,
+      "fill_rate_p95": 0.9810072749454251,
+      "waste_liters_mean": 0.12819999999999998,
+      "stock_liters_mean": 17.706500555555554,
+      "stockout_days_mean": 7.11,
+      "purchase_reais_mean": 9806.044,
+      "rop_ml": 58620,
+      "target_ml": 69730,
+      "safety_ml": 5877
+    }
+  ],
+  "scope": "Demanda de bebidas convertida em um ingrediente: leite; nao sistema completo de ingredientes"
+}
