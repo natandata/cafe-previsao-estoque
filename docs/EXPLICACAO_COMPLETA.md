@@ -1,6 +1,6 @@
 # Previsão e estoque perecível do café
 
-Documento de implementação e estudo, versão privada de 11/11/2026. Projeto 8 do guia. Código independente com assistência de IA, dados próprios e sintéticos. Não é uma reprodução dos resultados do autor de referência nem uma implantação num café real. O projeto 10, plataforma de operações, é separado deste pacote.
+Documento de implementação e estudo, versão publicada de 11/11/2026. Projeto 8 do guia. Código independente com assistência de IA, dados próprios e sintéticos. Não é uma reprodução dos resultados do autor de referência nem uma implantação num café real. O projeto 10, plataforma de operações, é separado deste pacote.
 
 ## 1. O problema que foi implementado
 
@@ -180,6 +180,6 @@ Não diga que reduziu desperdício num café ou entregou um sistema de compra em
 
 Inspiração temática: https://github.com/AmirhosseinHonardoust/Cafe-Demand-Forecasting-Reorder-Simulator . Nenhum arquivo, base ou implementação do autor foi copiado. Os nomes dos métodos descrevem conceitos, não uma reprodução literal do software de referência. Dependências mantêm suas próprias licenças; a fonte Inter tem SIL OFL incluída no pacote.
 
-Nome proposto: `cafe-previsao-estoque`. O conteúdo e README estão preparados para revisão privada. Ainda não houve criação/publicação no GitHub e a escolha de licença do código autoral continua com o titular. O manual privado não integra o pacote e este trabalho não alterou o computador do titular.
+Repositório público `natandata/cafe-previsao-estoque`, publicado após aprovação de nome e conteúdo em 11/11/2026. A escolha de licença do código autoral continua com o titular; nenhuma licença de reutilização foi adicionada. O manual privado não integra o pacote e este trabalho não alterou o computador do titular.
 
 Fontes técnicas e contexto: NumPy Generator, https://numpy.org/doc/stable/reference/random/generator.html ; pandas date_range, https://pandas.pydata.org/docs/reference/api/pandas.date_range.html ; Python NormalDist, https://docs.python.org/3/library/statistics.html#statistics.NormalDist . A prevenção de vazamento segue também https://scikit-learn.org/stable/common_pitfalls.html , embora esta implementação não precise de scikit-learn para seus três baselines.

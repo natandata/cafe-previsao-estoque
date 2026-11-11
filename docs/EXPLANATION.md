@@ -1,6 +1,6 @@
 # Café forecasting and perishable stock
 
-Implementation and study document, private review version dated 11 November 2026. Project 8 of the guide. Independent code with AI assistance and original synthetic data. This is neither a reproduction of the reference author's results nor a real café deployment. Project 10, the operations platform, is separate.
+Implementation and study document, published version dated 11 November 2026. Project 8 of the guide. Independent code with AI assistance and original synthetic data. This is neither a reproduction of the reference author's results nor a real café deployment. Project 10, the operations platform, is separate.
 
 ## 1. The implemented decision
 
@@ -178,6 +178,6 @@ Do not claim real waste reduction or production purchasing deployment. Describe 
 
 Thematic inspiration: https://github.com/AmirhosseinHonardoust/Cafe-Demand-Forecasting-Reorder-Simulator . No author files, dataset, implementation or results were copied. Concept names do not imply literal software reproduction. Dependencies keep separate licenses; Inter's SIL OFL is bundled.
 
-Proposed name is `cafe-previsao-estoque`. README and content are private review material. GitHub creation/publication and original-code license remain pending. The private manual is not bundled and this work made no changes to the owner's Dell.
+Public repository `natandata/cafe-previsao-estoque`, published after name and content approval on 11 November 2026. No original-code reuse license has been added. The private manual is not bundled and this work made no changes to the owner's Dell.
 
 Technical sources: https://numpy.org/doc/stable/reference/random/generator.html ; https://pandas.pydata.org/docs/reference/api/pandas.date_range.html ; https://docs.python.org/3/library/statistics.html#statistics.NormalDist . Leakage guidance also follows https://scikit-learn.org/stable/common_pitfalls.html , although these baselines do not require scikit-learn.

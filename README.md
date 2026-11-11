@@ -2,7 +2,7 @@
 
 Estudo independente com dados sintéticos e assistência de IA. Liga previsão de duas bebidas a consumo de leite e reposição perecível. Não é um café real, uma ordem de compra ou uma reprodução literal do projeto de referência.
 
-**Estado:** implementado e executado localmente, em revisão privada. Nenhum repositório foi criado/publicado. Audiência pública escolhida; nome e conteúdo aguardam revisão. Sem licença de reutilização adicionada ao código próprio. Inter tem sua própria SIL OFL em `assets/`.
+**Estado:** implementado, executado localmente e publicado em repositório público após revisão de nome e conteúdo em 11/11/2026. Sem licença de reutilização adicionada ao código próprio. Inter tem sua própria SIL OFL em `assets/`.
 
 ## O que foi implementado
 
@@ -20,7 +20,7 @@ O sazonal semanal venceu na validação para os dois itens. No teste: café com 
 
 Prazo 2 dias/serviço nominal 97,5%: reposição atende 98,05% com estoque médio 13,26 L; compra fixa atende 99,64% com 18,92 L. Há troca entre estoque e atendimento, não vitória em tudo. Esses resultados são sintéticos; não demonstram redução real de desperdício ou lucro. Serviço nominal não é garantia de fill rate.
 
-38 testes passam em Python 3.10.12 e 3.12.15, incluindo caso manual, fronteira temporal, saldo, trânsito, validade e balanço. Interface exercitada em PT/EN, prazo 5/validade 3 e troca de método; layout inspecionado em 320/390/1280 px. Não instalado/testado no Dell, em Windows nativo ou com dados reais. GitHub Actions ainda não executado.
+38 testes passam em Python 3.10.12 e 3.12.15, incluindo caso manual, fronteira temporal, saldo, trânsito, validade e balanço. Interface exercitada em PT/EN, prazo 5/validade 3 e troca de método; layout inspecionado em 320/390/1280 px. Não instalado/testado no Dell, em Windows nativo ou com dados reais. GitHub Actions concluído com sucesso em Python 3.10 e 3.12; execução identificada em `docs/CI.md`.
 
 ## Rodar
 
@@ -63,7 +63,7 @@ https://github.com/AmirhosseinHonardoust/Cafe-Demand-Forecasting-Reorder-Simulat
 
 Independent study with synthetic data and AI assistance. It connects forecasts for two drinks to milk consumption and perishable replenishment. It is not a real café, a purchase instruction or a literal reproduction of the reference project.
 
-**Status:** implemented and executed locally, under private review. No repository has been created or published. Public audience selected; name and content await review. No original-code reuse license has been added. Inter retains its separate SIL OFL in `assets/`.
+**Status:** implemented, executed locally and published in a public repository after name and content review on 11 November 2026. No original-code reuse license has been added. Inter retains its separate SIL OFL in `assets/`.
 
 ## Implementation
 
@@ -81,7 +81,7 @@ Weekly seasonal naive won validation for both drinks. Final test: café com leit
 
 At 2-day lead time and 97.5% nominal service, replenishment serves 98.05% with 13.26 L average stock; fixed purchasing serves 99.64% with 18.92 L. There is a stock/service trade-off, not a universal winner. Figures are synthetic and do not demonstrate real waste reduction or profit. Nominal service does not guarantee fill rate.
 
-38 tests pass on Python 3.10.12 and 3.12.15, including manual cases, temporal boundaries, balances, transit, expiry and conservation. UI exercised in PT/EN, lead 5/shelf 3 and different methods; layout inspected at 320/390/1280 px. Not installed or tested on the owner's Dell, native Windows or real data. GitHub Actions has not run.
+38 tests pass on Python 3.10.12 and 3.12.15, including manual cases, temporal boundaries, balances, transit, expiry and conservation. UI exercised in PT/EN, lead 5/shelf 3 and different methods; layout inspected at 320/390/1280 px. Not installed or tested on the owner's Dell, native Windows or real data. GitHub Actions completed successfully on Python 3.10 and 3.12; see `docs/CI.md` for the exact run.
 
 ## Run and read
 
